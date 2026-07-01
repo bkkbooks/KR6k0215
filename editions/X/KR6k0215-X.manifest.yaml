@@ -1,0 +1,88 @@
+canonical_identifier: bkk:krp/KR6k0215/X/v1
+canonical_location: https://kanripo.org/bkk/KR6k0215/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 道具賦
+  identifiers:
+    krp: KR6k0215
+    cbeta: X59n1100
+    cbeta_old_id: X59n1100
+    authorityid: CA0000735
+    json_key: X1100
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X59/X59n1100.xml
+    old_id: X59n1100
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0215_000-X.yaml, hash: 'sha256:7f92da8415ec386e931082ea3aa881d61954b8292a7ed899468a814496750037'}
+  - {seq: 1, filename: KR6k0215_001-X.yaml, hash: 'sha256:623711d1c2f17c8a0811560c60000c5e4e81be596b6eae90d0d462abf280a04e'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6k0215_000-X.markers.yaml, hash: 'sha256:0a724aa42f197e76606be35a6918c4a2338a1252f39b1e0f844fd8b410ebddf8'}
+  - {seq: 1, role: markers, filename: assets/KR6k0215_001-X.markers.yaml, hash: 'sha256:aaabb21ff837a4ab75342efab3b3e348440f89ea2e41e16f6ef821b515214c6e'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6k0215_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 831
+  label: 大智律師道具賦
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0215_X_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 三衣賦
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0215_X_001-mulu-2
+    span:
+    - body
+    - 233
+    - 233
+  label: 䥫鉢賦
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0215_X_001-mulu-3
+    span:
+    - body
+    - 411
+    - 411
+  label: 坐具賦
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0215_X_001-mulu-4
+    span:
+    - body
+    - 550
+    - 550
+  label: 漉囊賦
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0215_X_001-mulu-5
+    span:
+    - body
+    - 695
+    - 695
+  label: 錫杖賦
+  type: mulu
+  level: 1
+hash: sha256:a7d90d8a47a84f8eea5b25668889be249a6e9f986448b0fe008bb2f2219dd9f0

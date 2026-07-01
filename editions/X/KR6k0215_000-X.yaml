@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6k0215/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 道具賦
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X59/X59n1100.xml
+    old_id: X59n1100
+hash: sha256:7f92da8415ec386e931082ea3aa881d61954b8292a7ed899468a814496750037

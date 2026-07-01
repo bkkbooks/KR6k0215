@@ -1,0 +1,92 @@
+canonical_identifier: bkk:krp/KR6k0215/v1
+canonical_location: https://kanripo.org/bkk/KR6k0215/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 道具賦
+  identifiers:
+    alt_id:
+    - X59n1100
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X59/X59n1100.xml
+    old_id: X59n1100
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0215_000.yaml, hash: 'sha256:7f92da8415ec386e931082ea3aa881d61954b8292a7ed899468a814496750037'}
+  - {seq: 1, filename: KR6k0215_001.yaml, hash: 'sha256:6c77a1a25c47d48947730dfa722c5daebeb1cf4b9f7655773f26edadeae88014'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6k0215_001.markers.yaml, hash: 'sha256:1bc209c0c96e05242dcee5ea0b50f75634c9473adf17151867487750ab131037'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6k0215_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 831
+  label: 大智律師道具賦
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0215_X_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 三衣賦
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0215_X_001-mulu-2
+    span:
+    - body
+    - 233
+    - 233
+  label: 䥫鉢賦
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0215_X_001-mulu-3
+    span:
+    - body
+    - 411
+    - 411
+  label: 坐具賦
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0215_X_001-mulu-4
+    span:
+    - body
+    - 550
+    - 550
+  label: 漉囊賦
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0215_X_001-mulu-5
+    span:
+    - body
+    - 695
+    - 695
+  label: 錫杖賦
+  type: mulu
+  level: 1
+hash: sha256:11b584b3e1e0291aeea035f4bb928588a95d1f46bea5dfb46f611e765554bb73
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
