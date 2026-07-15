@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6k0215/v1
 canonical_location: https://kanripo.org/bkk/KR6k0215/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 道具賦
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6k0215_000.yaml, hash: 'sha256:7f92da8415ec386e931082ea3aa881d61954b8292a7ed899468a814496750037'}
-  - {seq: 1, filename: KR6k0215_001.yaml, hash: 'sha256:623711d1c2f17c8a0811560c60000c5e4e81be596b6eae90d0d462abf280a04e'}
+  - {seq: 1, filename: KR6k0215_001.yaml, hash: 'sha256:00f7313d2cad2a8caa7fe2d1ca674974442d2d54e3430818f2569459171ae746'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6k0215_000.markers.yaml, hash: 'sha256:80c7ec026915a6182b1f579df96611f01490e4c226d19878c4d90ab033c48d92'}
-  - {seq: 1, role: markers, filename: assets/KR6k0215_001.markers.yaml, hash: 'sha256:a4ece2b65020f39032a8ddc899798e6baa8b80071bf58810130f24423e0af83d'}
+  - {seq: 1, role: markers, filename: assets/KR6k0215_001.markers.yaml, hash: 'sha256:adc86370ee29238fbf1101af61133274e76efc671485a32baf13fd0470b775b2'}
 table_of_contents:
 - ref:
     seq: 1
@@ -87,4 +87,7 @@ table_of_contents:
   label: 錫杖賦
   type: mulu
   level: 1
-hash: sha256:36e9a1ea88d946bad89973a37142ccce3f590774a30d07cd09896a81e35bbc73
+hash: sha256:d60e55cc512dad7d99eb34498117d79d36476c53e17bfa730d002524197b24ee
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
